@@ -1,7 +1,7 @@
 package dev.berto.Fizzbuzz;
 
 public class FizzBuzz {
-    public String chechkNumber(int number){
+    public String checkNumber(int number){
         boolean isDivisibleBy3And5 = number % 3 == 0 && number % 5 == 0;
         if (isDivisibleBy3And5) {
             return "FizzBuzz";
