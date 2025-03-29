@@ -1,4 +1,4 @@
-package com.fizzbuzz;
+package dev.berto.FizzbuzzTest;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

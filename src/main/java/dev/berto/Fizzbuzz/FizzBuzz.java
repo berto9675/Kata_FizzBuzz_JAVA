@@ -1,4 +1,4 @@
-package com.fizzbuzz;
+package dev.berto.Fizzbuzz;
 
 public class FizzBuzz {
     
